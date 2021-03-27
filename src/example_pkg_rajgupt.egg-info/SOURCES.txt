@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+src/example_pkg/__init__.py
+src/example_pkg_rajgupt.egg-info/PKG-INFO
+src/example_pkg_rajgupt.egg-info/SOURCES.txt
+src/example_pkg_rajgupt.egg-info/dependency_links.txt
+src/example_pkg_rajgupt.egg-info/top_level.txt
