@@ -13,7 +13,7 @@ Install / Update Packaging Tools:
 
 
 
-Build project:
+Build Project:
 
 `python3 -m build`
 
